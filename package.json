@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "homepage": "https://abhaykumar95.github.io/DISCODE-CLONE/",
 
-  "scripts": {
-    "start": "vite",
-    "dev": "vite"
-  },
+ "scripts": {
+  "start": "vite",
+  "dev": "vite",
+  "build": "vite build"
+},
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.3",
