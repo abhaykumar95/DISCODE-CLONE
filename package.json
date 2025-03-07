@@ -1,7 +1,8 @@
 {
   "name": "discord-clone",
   "version": "1.0.0",
-  "homepage": "https://github.com/abhaykumar95/DISCODE-CLONE.git",
+  "homepage": "https://abhaykumar95.github.io/DISCODE-CLONE/",
+
   "scripts": {
     "start": "vite",
     "dev": "vite"
